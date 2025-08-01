@@ -1,6 +1,8 @@
-# GitHub repository for
-__Population genomic analyses reveal geographic structure in Rhizoctonia solani AG1-IA isolates associated with different crops in the USA and the Caribbean__
+
+# __Population genomic analyses reveal geographic structure in Rhizoctonia solani AG1-IA isolates associated with different crops in the USA and the Caribbean__
 by Juanita Gil, Kensy Rodriguez-Herrera, Vanina Castroagudin, Felipe Dalla Lana, Xin-Gen Zhou, Sara Thomas-Sharma, Terry Spurlock, Jim Correll, Pierre Gladieux and Alejandro Rojas
+
+GitHub repository for data analysis for publication.
 
 ## Data
 Raw sequence reads are deposited on NCBI in the SRA under BioProject ID PRJNA1292868 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1292868). 
